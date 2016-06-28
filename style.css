@@ -1,0 +1,19 @@
+/*
+Theme Name: Rosa Child
+Theme URI: http://pixelgrade.com/demos/rosa
+Author: PixelGrade Team
+Author URI: http://pixelgrade.com
+Template: rosa
+Description:  ROSA is an enchanting and easy-to-use parallax Restaurant WordPress theme that allows you to tell your story in a dynamic, narrative and enjoyable way, making it perfect for restaurants, bakeries, bars or coffee shops.
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: rosa
+Tags: black, orange, light, one-column, two-columns, right-sidebar, flexible-width, custom-header, custom-menu, editor-style, featured-images, microformats, sticky-post, translation-ready
+*/
+
+/* Add your custom CSS rules that overwrite the ones in the main Lens theme here */
+
+/* This file assumes you wish to add new CSS rules that will overwrite the ones in the parent's CSS files
+If you wish however, you can copy the whole style.css file from the parent here and hack at it - see functions.php for more details.
+In that case please remember that you still need to retain the header above (replace the header of the parent style.css with the one above),
+specifically the 'Template: rosa' line. */
